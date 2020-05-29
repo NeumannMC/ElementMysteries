@@ -1,0 +1,2417 @@
+fileFormatVersion: 2
+guid: 365a1225e3d05db438c05640a22d6796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4650458978489243012
+    second: Elemental Icons 1_0
+  - first:
+      213: 3693453115029723399
+    second: Elemental Icons 1_1
+  - first:
+      213: -2888171913616285243
+    second: Elemental Icons 1_2
+  - first:
+      213: 8620181867075810917
+    second: Elemental Icons 1_3
+  - first:
+      213: 5448609569628956669
+    second: Elemental Icons 1_4
+  - first:
+      213: -8851967481407270640
+    second: Elemental Icons 1_5
+  - first:
+      213: 8784850013144592706
+    second: Elemental Icons 1_6
+  - first:
+      213: 6795429817506178943
+    second: Elemental Icons 1_7
+  - first:
+      213: 9149686242503099675
+    second: Elemental Icons 1_8
+  - first:
+      213: 1360964874130320863
+    second: Elemental Icons 1_9
+  - first:
+      213: -372575225147570614
+    second: Elemental Icons 1_10
+  - first:
+      213: 7820708624753547438
+    second: Elemental Icons 1_11
+  - first:
+      213: -2137740004991527838
+    second: Elemental Icons 1_12
+  - first:
+      213: -3027491626684559349
+    second: Elemental Icons 1_13
+  - first:
+      213: -4348443779024478854
+    second: Elemental Icons 1_14
+  - first:
+      213: 2512770243052785121
+    second: Elemental Icons 1_15
+  - first:
+      213: 4636751974049086290
+    second: Elemental Icons 1_16
+  - first:
+      213: -4513040260100933403
+    second: Elemental Icons 1_17
+  - first:
+      213: 8727036868444737881
+    second: Elemental Icons 1_18
+  - first:
+      213: -6050641871311186439
+    second: Elemental Icons 1_19
+  - first:
+      213: 2145433851614218362
+    second: Elemental Icons 1_20
+  - first:
+      213: -5143739935083223386
+    second: Elemental Icons 1_21
+  - first:
+      213: -6037794595220494003
+    second: Elemental Icons 1_22
+  - first:
+      213: 2285133821986957599
+    second: Elemental Icons 1_23
+  - first:
+      213: -2288211993168679673
+    second: Elemental Icons 1_24
+  - first:
+      213: -583218699324490013
+    second: Elemental Icons 1_25
+  - first:
+      213: -1815861176636721538
+    second: Elemental Icons 1_26
+  - first:
+      213: 5248555236418066278
+    second: Elemental Icons 1_27
+  - first:
+      213: 8528517300188657634
+    second: Elemental Icons 1_28
+  - first:
+      213: -8233658447715663521
+    second: Elemental Icons 1_29
+  - first:
+      213: 7598095900168326660
+    second: Elemental Icons 1_30
+  - first:
+      213: 8059677137749360308
+    second: Elemental Icons 1_31
+  - first:
+      213: -7195701432608909405
+    second: Elemental Icons 1_32
+  - first:
+      213: 5643464719695186354
+    second: Elemental Icons 1_33
+  - first:
+      213: -7364953024943136623
+    second: Elemental Icons 1_34
+  - first:
+      213: 8068546562490199970
+    second: Elemental Icons 1_35
+  - first:
+      213: 2820402205734650888
+    second: Elemental Icons 1_36
+  - first:
+      213: -8111069522836512314
+    second: Elemental Icons 1_37
+  - first:
+      213: 8633190331703787476
+    second: Elemental Icons 1_38
+  - first:
+      213: 4043452988950146480
+    second: Elemental Icons 1_39
+  - first:
+      213: -5230215548226960882
+    second: Elemental Icons 1_40
+  - first:
+      213: 6253667591756747877
+    second: Elemental Icons 1_41
+  - first:
+      213: 2626113609523351746
+    second: Elemental Icons 1_42
+  - first:
+      213: 1488487302101802723
+    second: Elemental Icons 1_43
+  - first:
+      213: -829364900535030026
+    second: Elemental Icons 1_44
+  - first:
+      213: -3103669455707360599
+    second: Elemental Icons 1_45
+  - first:
+      213: 526027006382459195
+    second: Elemental Icons 1_46
+  - first:
+      213: 1597045701267380217
+    second: Elemental Icons 1_47
+  - first:
+      213: 3004054416572582853
+    second: Elemental Icons 1_48
+  - first:
+      213: -76575760710875867
+    second: Elemental Icons 1_49
+  - first:
+      213: 6295964619891475067
+    second: Elemental Icons 1_50
+  - first:
+      213: 276579550691959179
+    second: Elemental Icons 1_51
+  - first:
+      213: -5505950339505422164
+    second: Elemental Icons 1_52
+  - first:
+      213: 4794234818277644028
+    second: Elemental Icons 1_53
+  - first:
+      213: -8468073178880271336
+    second: Elemental Icons 1_54
+  - first:
+      213: 4540597922135890452
+    second: Elemental Icons 1_55
+  - first:
+      213: -2468461258717795883
+    second: Elemental Icons 1_56
+  - first:
+      213: 5283056001428783638
+    second: Elemental Icons 1_57
+  - first:
+      213: -3112590334551849859
+    second: Elemental Icons 1_58
+  - first:
+      213: 3477714634670311584
+    second: Elemental Icons 1_59
+  - first:
+      213: -1111818487493234706
+    second: Elemental Icons 1_60
+  - first:
+      213: 6445307267772098675
+    second: Elemental Icons 1_61
+  - first:
+      213: 1601946806213668639
+    second: Elemental Icons 1_62
+  - first:
+      213: 1801943728596377398
+    second: Elemental Icons 1_63
+  - first:
+      213: -6395976840116682523
+    second: Elemental Icons 1_64
+  - first:
+      213: -6961281915847462208
+    second: Elemental Icons 1_65
+  - first:
+      213: -4523685083878166269
+    second: Elemental Icons 1_66
+  - first:
+      213: 4657590151742994264
+    second: Elemental Icons 1_67
+  - first:
+      213: 8536927197833062173
+    second: Elemental Icons 1_68
+  - first:
+      213: 4934539200772364963
+    second: Elemental Icons 1_69
+  - first:
+      213: -5373431021072260642
+    second: Elemental Icons 1_70
+  - first:
+      213: -7351666491654398580
+    second: Elemental Icons 1_71
+  - first:
+      213: -7555483249647189280
+    second: Elemental Icons 1_72
+  - first:
+      213: 7452859964885045635
+    second: Elemental Icons 1_73
+  - first:
+      213: 2685839695263402725
+    second: Elemental Icons 1_74
+  - first:
+      213: -3885835118388193664
+    second: Elemental Icons 1_75
+  - first:
+      213: -1492229696710631814
+    second: Elemental Icons 1_76
+  - first:
+      213: 1724692901636408121
+    second: Elemental Icons 1_77
+  - first:
+      213: 3483854221354190682
+    second: Elemental Icons 1_78
+  - first:
+      213: -3129926178983737893
+    second: Elemental Icons 1_79
+  - first:
+      213: -7768327885191017053
+    second: Elemental Icons 1_80
+  - first:
+      213: 479329396089068373
+    second: Elemental Icons 1_81
+  - first:
+      213: -92637475296726722
+    second: Elemental Icons 1_82
+  - first:
+      213: 2212484755365819160
+    second: Elemental Icons 1_83
+  - first:
+      213: -5322058709500362970
+    second: Elemental Icons 1_84
+  - first:
+      213: -8101685583998277860
+    second: Elemental Icons 1_85
+  - first:
+      213: 2317361895453554162
+    second: Elemental Icons 1_86
+  - first:
+      213: -6264637057239478704
+    second: Elemental Icons 1_87
+  - first:
+      213: 8462951521283860590
+    second: Elemental Icons 1_88
+  - first:
+      213: 6974941987130532756
+    second: Elemental Icons 1_89
+  - first:
+      213: -8912839891062059029
+    second: Elemental Icons 1_90
+  - first:
+      213: 1423815728779156468
+    second: Elemental Icons 1_91
+  - first:
+      213: -3449485798099562040
+    second: Elemental Icons 1_92
+  - first:
+      213: 3715375620027926055
+    second: Elemental Icons 1_93
+  - first:
+      213: 1518585332453465385
+    second: Elemental Icons 1_94
+  - first:
+      213: 8603987647783727359
+    second: Elemental Icons 1_95
+  - first:
+      213: 4015460343173186424
+    second: Elemental Icons 1_96
+  - first:
+      213: 9043541099994288881
+    second: Elemental Icons 1_97
+  - first:
+      213: -2617893211702266059
+    second: Elemental Icons 1_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elemental Icons 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a6f90c230467fb0800000000000000
+      internalID: -4650458978489243012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 228
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70918e31a08c14330800000000000000
+      internalID: 3693453115029723399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c124ae52f62be7d0800000000000000
+      internalID: -2888171913616285243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 228
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56631568cb901a770800000000000000
+      internalID: 8620181867075810917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7278d19895d9b40800000000000000
+      internalID: 5448609569628956669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 228
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111963b97e772580800000000000000
+      internalID: -8851967481407270640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241b196fa8e0ae970800000000000000
+      internalID: 8784850013144592706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ad805a673e4e50800000000000000
+      internalID: 6795429817506178943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150da219273afe70800000000000000
+      internalID: 9149686242503099675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd6252a75e13e210800000000000000
+      internalID: 1360964874130320863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c7f48ec854daf0800000000000000
+      internalID: -372575225147570614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 229
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d44eee0db88c60800000000000000
+      internalID: 7820708624753547438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264965caac83552e0800000000000000
+      internalID: -2137740004991527838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005ff6e7603cf5d0800000000000000
+      internalID: -3027491626684559349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 196
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d1d790c6937a3c0800000000000000
+      internalID: -4348443779024478854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 196
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed455b09372fd220800000000000000
+      internalID: 2512770243052785121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 196
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b79c49a5d095040800000000000000
+      internalID: 4636751974049086290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 196
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b5a76bc57e51c0800000000000000
+      internalID: -4513040260100933403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d2654bc9ac1970800000000000000
+      internalID: 8727036868444737881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55465964dc70ca0800000000000000
+      internalID: -6050641871311186439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78409698bc16cd10800000000000000
+      internalID: 2145433851614218362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 197
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6af5028c3cd98b0800000000000000
+      internalID: -5143739935083223386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 197
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49eb152ec1753ca0800000000000000
+      internalID: -6037794595220494003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 197
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1963cb9a1d66bf10800000000000000
+      internalID: 2285133821986957599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6460d053ae30e0800000000000000
+      internalID: -2288211993168679673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 164
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef568deadf7e7f0800000000000000
+      internalID: -583218699324490013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76352571e3ccc6e0800000000000000
+      internalID: -1815861176636721538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66717b2fd2d96d840800000000000000
+      internalID: 5248555236418066278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 164
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b48a6c416b5670800000000000000
+      internalID: 8528517300188657634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51830ef34b2cbd80800000000000000
+      internalID: -8233658447715663521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e82eaf6fbd17960800000000000000
+      internalID: 7598095900168326660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be33ef97a9b9df60800000000000000
+      internalID: 8059677137749360308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79397ebabb32c90800000000000000
+      internalID: -7195701432608909405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 165
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b981ef134d915e40800000000000000
+      internalID: 5643464719695186354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 165
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19063d8be3e6ac990800000000000000
+      internalID: -7364953024943136623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 165
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6dee795c39ff60800000000000000
+      internalID: 8068546562490199970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ca8cecd4142720800000000000000
+      internalID: 2820402205734650888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c125d64e31bf6f80800000000000000
+      internalID: -8111069522836512314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7a87bdd04fc770800000000000000
+      internalID: 8633190331703787476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd6d50021b3d1830800000000000000
+      internalID: 4043452988950146480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 132
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0205357baa8a67b0800000000000000
+      internalID: -5230215548226960882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 132
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56498069a8d79c650800000000000000
+      internalID: 6253667591756747877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c055730a64d17420800000000000000
+      internalID: 2626113609523351746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee157e905b28a410800000000000000
+      internalID: 1488487302101802723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feae6264018d74f0800000000000000
+      internalID: -829364900535030026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 133
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23550f21d8de4d0800000000000000
+      internalID: -3103669455707360599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 133
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3940b976c2dc4700800000000000000
+      internalID: 526027006382459195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 133
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f75b129a98d92610800000000000000
+      internalID: 1597045701267380217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb80c1639b80b920800000000000000
+      internalID: 3004054416572582853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254c6850c2ffeef0800000000000000
+      internalID: -76575760710875867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720f0fd672cf5750800000000000000
+      internalID: 6295964619891475067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a12fc2ab96d300800000000000000
+      internalID: 276579550691959179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca086d6865fe693b0800000000000000
+      internalID: -5505950339505422164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf69f319a2b888240800000000000000
+      internalID: 4794234818277644028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c14d04f4c5b7a80800000000000000
+      internalID: -8468073178880271336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a59c8c0c1730f30800000000000000
+      internalID: 4540597922135890452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 100
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ef4c40934ebdd0800000000000000
+      internalID: -2468461258717795883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61288a5417f215940800000000000000
+      internalID: 5283056001428783638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_58
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7409b9f49bddc4d0800000000000000
+      internalID: -3112590334551849859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a883b5d803534030800000000000000
+      internalID: 3477714634670311584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe04ee9f60290f0800000000000000
+      internalID: -1111818487493234706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378acc3bfc4527950800000000000000
+      internalID: 6445307267772098675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fef6df1224b3610800000000000000
+      internalID: 1601946806213668639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fda38264ac10910800000000000000
+      internalID: 1801943728596377398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0483583fcec37a0800000000000000
+      internalID: -6395976840116682523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 68
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2bf80eafe846f90800000000000000
+      internalID: -6961281915847462208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 68
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30175bb3264a831c0800000000000000
+      internalID: -4523685083878166269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857bff7e09513a040800000000000000
+      internalID: 4657590151742994264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e53c4e02497670800000000000000
+      internalID: 8536927197833062173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 68
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad64042410b7440800000000000000
+      internalID: 4934539200772364963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 68
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed16cebb4fcbd65b0800000000000000
+      internalID: -5373431021072260642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 68
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1cc1d642a9f990800000000000000
+      internalID: -7351666491654398580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e28d5ed308852790800000000000000
+      internalID: -7555483249647189280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38114bfa6a0ed6760800000000000000
+      internalID: 7452859964885045635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea81dff8f4064520800000000000000
+      internalID: 2685839695263402725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086dbb04c8db21ac0800000000000000
+      internalID: -3885835118388193664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e164c3ff88a4be0800000000000000
+      internalID: -1492229696710631814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9330da46e075fe710800000000000000
+      internalID: 1724692901636408121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57cf01c4f2295030800000000000000
+      internalID: 3483854221354190682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58a7829b44094d0800000000000000
+      internalID: -3129926178983737893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_80
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8d6062fa513490800000000000000
+      internalID: -7768327885191017053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_81
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b9a40db8be6a600800000000000000
+      internalID: 479329396089068373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31bc0005b2e6bef0800000000000000
+      internalID: -92637475296726722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813fb8aa92354be10800000000000000
+      internalID: 2212484755365819160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff47a1dcf3426b0800000000000000
+      internalID: -5322058709500362970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1721ebc2e7019f80800000000000000
+      internalID: -8101685583998277860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f882bd5ce82020800000000000000
+      internalID: 2317361895453554162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e0e74b9c98f09a0800000000000000
+      internalID: -6264637057239478704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e979e191727570800000000000000
+      internalID: 8462951521283860590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936fdf48c8fbc060800000000000000
+      internalID: 6974941987130532756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef8051675b3f4480800000000000000
+      internalID: -8912839891062059029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbde739cd862c310800000000000000
+      internalID: 1423815728779156468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_92
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1558a51f6f020d0800000000000000
+      internalID: -3449485798099562040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_93
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72649e6017aaf8330800000000000000
+      internalID: 3715375620027926055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd1066059131510800000000000000
+      internalID: 1518585332453465385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemental Icons 1_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff07ff50e21876770800000000000000
+      internalID: 8603987647783727359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbb1f479a05c5dd448e4123af710efd5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
